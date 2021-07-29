@@ -4,6 +4,9 @@ header{
 body{
     font-family: 'Poppins', sans-serif;
 }
+.Purchase{
+    color: orangered;
+}
 .Fetured-img{
     filter: grayscale(100%);
 }
