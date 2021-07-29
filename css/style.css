@@ -8,7 +8,7 @@ body{
     color: orangered;
 }
 .Fetured-img{
-    filter: grayscale(100%);
+    filter: grayscale(1);
 }
 /* happy clients    */
 .Orange{
