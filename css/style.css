@@ -1,6 +1,13 @@
 header{
     background-color: #264653;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .Fetured-img{
     filter: grayscale(100%);
+}
+/* happy clients    */
+.Orange{
+    color: orangered;
 }
